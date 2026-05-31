@@ -17,3 +17,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai%20Teja-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sai-teja-thammali/)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/SAI_TEJA_THAMMALI/)
+
+[![Gmail](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saitejathammali19@gamil.com)
